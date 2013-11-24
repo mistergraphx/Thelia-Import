@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <descriptif lang="fr">
+    <titre>Import</titre>
+    <chapo> Basé sur le module de Gil Fourgeau : Importer les produits Thelia en masse</chapo>
+    <description></description>
+    <postscriptum></postscriptum>
+  </descriptif>
+  <version>1.1</version>
+  <auteur>
+    <nom>Arnaud B. (Mist. GraphX)</nom>
+    <societe></societe>
+    <email>mistergraphx@gmail.com</email>
+    <web></web>
+  </auteur>
+  <type>classique</type>
+  <prerequis/>
+  <thelia>1.5.3</thelia>
+  <etat>dev</etat>
+  <documentation>import.md</documentation>
+  <urlmiseajour></urlmiseajour>
+</plugin>
